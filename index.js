@@ -22,3 +22,14 @@ console.log(madeAString);
 // all the array items together into a single
 // string, and returns this new string
 
+function dunamisFunction(session) {
+
+return session + " was powerful with Tedd"
+
+}
+
+console.log(dunamisFunction("intelligence session"));
+
+let myName = "I'm a string";
+let anotherString = myName.replace("string", "boolean");
+console.log(anotherString);
