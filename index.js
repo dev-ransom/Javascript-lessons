@@ -33,3 +33,8 @@ console.log(dunamisFunction("intelligence session"));
 let myName = "I'm a string";
 let anotherString = myName.replace("string", "boolean");
 console.log(anotherString);
+
+var myStar = ["dunamis", "was"  , "great"];
+var  changeString = myStar.join(' ');
+console.log(changeString);
+
