@@ -1,20 +1,14 @@
 
 
-function parametersFunction(a, b)  {
+function dcFunction(meeting) {
 
-console.log(a - b);
-
-
-}
-
-parametersFunction(35, 20);
-
-
-function bestFriend(name) {
-
-
- return name + " is my love !"
+return meeting + " maker of sons";
 
 }
 
-console.log(bestFriend("Jesus"));
+console.log(dcFunction('Instadad'));
+
+var myText = "I am a string";
+var newString = myText.replace("string", "sausage");
+console.log(newString);
+
