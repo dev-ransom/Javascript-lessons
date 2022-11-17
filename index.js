@@ -1,7 +1,2 @@
-
-function ourFunction(p, o){
-
-console.log(p - o);
-
-}
-ourFunction(50 , 10);
+let cars = [ "bmw ", "Bugatti ", "Ferrari"  ];
+document.getElementById("demo").innerHTML = cars;
